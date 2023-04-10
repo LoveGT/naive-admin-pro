@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/src/typings/components.d.ts
+/types/components.d.ts
+package-lock.json
+yarn.lock
